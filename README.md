@@ -5,4 +5,4 @@
 # after it is done then run the Jarvis.py
 # if you need to run this code on windows or mac os you need to do some updates to the code
 # if there are any errors or doubts plz DM me in discord
-# Discord id: AJ 17#3477
+# Discord id: THE BOSS#3477
